@@ -11,7 +11,7 @@ Backend: **C#**
 
 Frontend: **WPF**
 
-Database: **Postgre**
+Database: **Postgre** with **EFCore**
 
 ### I also make a design, use case diagram, etc
 
