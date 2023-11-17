@@ -1,6 +1,6 @@
 #  VIDEO WATCH CHECKER
 
-Hello everyone, welcome! :D
+## Hello everyone, welcome! :D
 
 I just want to make a portofolio, this application will be like video checklist, when we finish watching a video it will give a sign then we can track which videos are not watch yet
 
