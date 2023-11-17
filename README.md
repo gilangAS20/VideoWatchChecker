@@ -13,11 +13,16 @@ Frontend: **WPF**
 
 Database: **Postgre** with **EFCore**
 
+Design Pattern: **MVVM(Model, View, View-Model)**
+
 ### I also make a design, use case diagram, etc
 
 Diagram: [Diagram with draw.io](https://drive.google.com/file/d/1-kHLYQQAsbcJy1UJWIVxb9ilWSVbHM1B/view?usp=sharing "Diagram with draw.io")
+
 UI Design: [UI with Figma](https://www.figma.com/file/vY3h14f2ZC2K0pMUChzPP8/VideoWatchChecker?type=design&node-id=0%3A1&mode=design&t=kEJqRUw995LbHF1r-1 "UI with Figma")
 
+Google Docs: [Some links and references](https://docs.google.com/document/d/1Zm7ioMU-jRxguFUik2SsbAKv9lnaPIUHALVSqNVmlfM/edit?usp=sharing)
+###
 I will make some update to this readme and the repository
 
 ------------
